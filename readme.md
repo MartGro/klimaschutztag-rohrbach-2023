@@ -1,4 +1,4 @@
-# GitHub and Government [![Test site build](https://github.com/github/government.github.com/actions/workflows/build.yml/badge.svg)](https://github.com/github/government.github.com/actions/workflows/build.yml)
+# Klimaschutztag Rohrbach 2023 [![Test site build](https://github.com/github/government.github.com/actions/workflows/build.yml/badge.svg)](https://github.com/github/government.github.com/actions/workflows/build.yml)
 
 ![screenshot](assets/img/screenshot.png)
 
