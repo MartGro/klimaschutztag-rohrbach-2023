@@ -3,8 +3,17 @@
 
 @import "minima";
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
-body {
-    font-family: 'Montserrat', sans-serif;
-    color: #383838;
+/* montserrat-regular - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url("{{ "assets/fonts/montserrat-v25-latin-regular.eot" | relative_url }}"); /* IE9 Compat Modes */
+  src: local(''),
+       url("{{ "assets/fonts/montserrat-v25-latin-regular.eot?#iefix" | relative_url }}") format('embedded-opentype'), /* IE6-IE8 */
+       url("{{ "assets/fonts/montserrat-v25-latin-regular.woff2" | relative_url }}") format('woff2'), /* Super Modern Browsers */
+       url("{{ "assets/fonts/montserrat-v25-latin-regular.woff" | relative_url }}") format('woff'), /* Modern Browsers */
+       url("{{ "assets/fonts/montserrat-v25-latin-regular.ttf" | relative_url }}") format('truetype'), /* Safari, Android, iOS */
+       url("{{ "assets/fonts/montserrat-v25-latin-regular.svg#Montserrat" | relative_url }}") format('svg'); /* Legacy iOS */
 }
+
