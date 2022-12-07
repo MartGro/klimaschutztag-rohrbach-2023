@@ -6,11 +6,12 @@ layout: post
 
 Hier ist das PDF verlinkt: 
 INSERT PDF HERE
+[PDF LINK]({% link _assets/dummy.pdf %})
 
 Und der Hallenplan
 
 
-You can check the source code of the [editing content]({% link _posts/2020-03-24-edit-content.md %}) post to see how I moved from the standard syntax for images using `![alt text](image path)` to use HTML to allow to set up a custom width using a CSS style.
+You can check the source code of the [editing content]({% link _/dummy.pdf %}) post to see how I moved from the standard syntax for images using `![alt text](image path)` to use HTML to allow to set up a custom width using a CSS style.
 
 ```html{% raw %}
 <div style="text-align:right; margin: 20px 0">
