@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: Klimaschutztag am 26.03. in Rohrbach
+title: Klimaschutztag am 26.03.2023 in Rohrbach
 list_title: Klimaschutztag Rohrbach
 ---
 
