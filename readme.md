@@ -1,6 +1,6 @@
 # Klimaschutztag Rohrbach 2023 [![Test site build](https://github.com/github/government.github.com/actions/workflows/build.yml/badge.svg)](https://github.com/github/government.github.com/actions/workflows/build.yml)
 
-![screenshot](assets/img/screenshot.png)
+![screenshot](assets/img/screenshot_2.png)
 
 Gather, curate, and feature stories of people using GitHub as part of their open government innovations.
 
