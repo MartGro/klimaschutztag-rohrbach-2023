@@ -4,9 +4,9 @@ date: 2022-12-06
 layout: post
 ---
 
-Hier ist das PDF verlinkt: 
-INSERT PDF HERE
-[PDF LINK](assets/dummy.pdf)
+Hier ist das PDF verlinkt:
+[Dummy.pdf](https://raw.githubusercontent.com/MartGro/klimaschutztag-rohrbach-2023/main/assets/Dummy.pdf)
+
 
 Und der Hallenplan
 
