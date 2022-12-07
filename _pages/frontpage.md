@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: Klimaschutztag Rohrbach a.d. Ilm 26.03.2023
+title: Klimaschutztag Rohrbach a.d. Ilm
 list_title: Klimaschutztag Rohrbach
 ---
 
