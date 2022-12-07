@@ -1,6 +1,6 @@
 # global settings
-title: "GitHub and Government"
-description: "GitHub helps government build software better, together"
+title: "Klimaschutztag Rohrbach a.d. Ilm 2023"
+description: "Homepage für den Klimaschutztag in Rohrbach a.d. Ilm am 26.3.2023"
 permalink: "/stories/:title"
 url: https://government.github.com
 relative_permalinks: false
