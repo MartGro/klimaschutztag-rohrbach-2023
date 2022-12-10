@@ -1,8 +1,7 @@
 ---
 permalink: /impressum
-layout: home
+layout: page
 title: Impressum
-list_title: Impressum
 ---
 
 Diese Seite speichert keinerlei Daten über Sie, deswegen gibt es keine Datenschutzerklärung. 
@@ -17,4 +16,6 @@ Martin Grosshauser
 Nymphenburger Str. 99
 80636 München
 info@klimaschutztag-rohrbach.de
+
+
 
