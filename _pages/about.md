@@ -1,7 +1,7 @@
 ---
 permalink: /about
 layout: page
-title: Über den AK Energie
+title: Über den BAK Energie
 ---
 
 Der Bürgerarbeitskreis Energie (BAK Energie) ist eine Initiative, die sich dem Thema Energieeffizienz und erneuerbare Energien widmet. Das Ziel des BAK Energie ist es, Bürgerinnen und Bürgern Informationen und Wissen rund um diese Themen zu vermitteln und sie bei der Umsetzung von Energieprojekten in ihrem Alltag zu unterstützen.
