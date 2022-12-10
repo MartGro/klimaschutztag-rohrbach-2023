@@ -13,13 +13,10 @@ Gibt es aber nicht.
 ***
 **Name und Kontaktdaten des Verantwortlichen**
 
-Martin Grosshauser
-
-Nymphenburger Str. 99
-
-80636 München
-
-info@klimaschutztag-rohrbach.de
+Martin Grosshauser<br>
+Nymphenburger Str. 99<br>
+80636 München<br>
+info@klimaschutztag-rohrbach.de<br> 
 
 
 
