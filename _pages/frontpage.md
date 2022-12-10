@@ -30,3 +30,5 @@ Korbinian Pöppel, Bürgerarbeitskreis Energie Rohrbach
 
 Christian Keck, 1. Bgm. Gemeinde Rohrbach
 
+***
+
