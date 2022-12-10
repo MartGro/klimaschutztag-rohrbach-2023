@@ -8,7 +8,7 @@ title: Ablaufplan
 Turmberghalle,
 Im Frauental 5, 85296 Rohrbach
 
-## Aufbau: 
+## Aufbau (für Aussteller): 
 - __Sa, 25.03 12:00__\: Aufbau
 
 ## Ablauf:
