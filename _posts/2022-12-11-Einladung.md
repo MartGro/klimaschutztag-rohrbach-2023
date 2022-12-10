@@ -1,6 +1,6 @@
 ---
 title: "Einladung für Unternehmen zum Klimaschutztag (mit Anmeldeformular)"
-date: 2022-12-11
+date: 2022-12-10
 layout: post
 ---
 
