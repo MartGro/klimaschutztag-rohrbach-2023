@@ -1,24 +1,18 @@
 ---
-title: "Einladung für Unternehmen zum Klimaschutztag (mit Anmeldeformular)"
-date: 2022-12-10
+title: "Einladung zu den Rohrbacher Klimaschutzabenden"
+date: 2023-02-14
 layout: post
 ---
 
-Liebes Unternehmen aus der Region,<br>
+Liebe Bürgerinnen und Bürger der Gemeinde Rohrbach und der Hallertau,
 
-wir freuen uns sehr, den Klimaschutztag Rohrbach ausrichten zu dürfen. Wir möchten Ihnen als Unternehmen aus der Region eine Plattform bieten, um Ihre Arbeit und Ihre Bemühungen im Bereich Energieeffizienz und Nachhaltigkeit zu präsentieren. Wenn Ihr Unternehmen thematisch zu unserem Fokus passt, dann sind Sie herzlich als Aussteller eingeladen.<br>
-Wir freuen uns auf Ihre Teilnahme und auf einen spannenden Klimaschutztag zusammen.<br>
+Jeder ist gefordert, aktiv etwas fürs Klima zu tun! Um die
+Bürger hierbei tatkräftig zu unterstützen, laden der Energie- und
+Solarverein Rohrbach sowie der Bürger-Arbeitskreis „Energie“
+herzlich zu seinen Klimaschutzabenden mit interessantem Pro-
+gramm ein. Informieren Sie sich und lassen sich inspirieren!
 
-Herzliche Grüße,<br>
+Wir freuen uns auf Ihr Kommen!
 
-die Organisatoren des Klimaschutztags Rohrbach
-
-***
-
-
-Gerne können Sie sich unter [info@klimaschutztag-rohrbach.de](mailto:info@klimaschutztag-rohrbach.de) für die Teilnahme registrieren.<br>
-
-Link zur Einladung der Unternehmen als PDF:
-[EinladungKlimaschutztag.pdf](https://raw.githubusercontent.com/MartGro/klimaschutztag-rohrbach-2023/main/assets/EinladungKlimaschutztag.pdf)
-
-
+Mit freundlichen Grüßen
+Das Orga-Team der Klimaschutzabende Rohrbach

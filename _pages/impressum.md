@@ -16,7 +16,7 @@ Gibt es aber nicht.
 Martin Grosshauser<br>
 Nymphenburger Str. 99<br>
 80636 München<br>
-info@klimaschutztag-rohrbach.de<br> 
+info@klimaschutz-rohrbach.de<br> 
 
 
 

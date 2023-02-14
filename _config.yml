@@ -1,5 +1,5 @@
-title: Klimaschutztag Rohrbach 2023
-description: Website für den Klimaschutztag in Rohrbach a.d. Ilm am 26.03.2023
+title: Klimaschutz Rohrbach
+description: Website der Klimaschutz-Taskforce Rohrbach a.d. Ilm
 author: "Bürgerarbeitskreis Energie Rohrbach a.d. Ilm"
 
 theme: minima
@@ -7,9 +7,6 @@ theme: minima
 base_url: /klimaschutztag-rohrbach-2023
 
 # Minima social links
-#twitter_username: xurxosanz
-#github_username: jsanz
-#linkedin_username: jsanz
 #rss: rss
 
 # Minima: show excerpts in the frontpage
@@ -21,7 +18,7 @@ minima:
 # Minima: custom header links
 header_pages:
   - _pages/frontpage.md
-  - _pages/ablaufplan.md
+  - _pages/veranstaltungstermine.md
   - _pages/about.md
   - _pages/impressum.md
   #- _pages/archive.md
