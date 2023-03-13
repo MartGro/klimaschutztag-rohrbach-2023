@@ -16,5 +16,5 @@ Wir freuen uns auf Ihr Kommen!
 Mit freundlichen Grüßen
 Das Orga-Team der Klimaschutzabende Rohrbach
 
-<img src="assets/imgs/LAGFoerderung.jpg" alt="KlimaschutzabendeRohrbachEinladung" width="400"/>
+<img src="../../../assets/imgs/LAGFoerderung.jpg" alt="KlimaschutzabendeRohrbachEinladung" width="400"/>
 
