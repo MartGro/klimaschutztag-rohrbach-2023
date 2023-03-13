@@ -23,3 +23,6 @@ __Ort: Vereinsheim Schützen Gambach__
 __Thema: Nachhaltige Lebensweise__
 
 __Ort: TBA__
+
+
+<img src="assets/imgs/LAGFoerderung.jpg" alt="KlimaschutzabendeRohrbachEinladung" width="400"/>
