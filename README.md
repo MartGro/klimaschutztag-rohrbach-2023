@@ -18,6 +18,12 @@ Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-
 
 Enjoy!!
 
+## Running the thing
+To run it use:
+```bash
+bundle exec jekyll serve
+```
+
 [gh-site]: https://pages.github.com/
 [jk]: https://jekyllrb.com/
 [minima]: https://github.com/jekyll/minima/tree/2.5-stable
