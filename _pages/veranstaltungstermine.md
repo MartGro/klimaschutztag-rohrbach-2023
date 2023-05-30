@@ -24,9 +24,15 @@ __Ort: Vereinsheim Schützen Gambach__
 
 ## __Do, 15.06. 19:00__
 __Thema: Nachhaltige Lebensweise__
-__Vortragende: tba__
+__Vortragende: Reparaturcafe Wolnzach, Regina Welnhofer__
 
 __Ort: Vereinsheim TSV Rohrbach - Zum Wirtshausfranz__
+
+## __Do, 15.06. 19:00__
+__Thema: Klimafreundliche Mobilität__
+__Vortragende: tba__
+
+__Ort: Vereinsheim SV Fahlenbach__
 
 
 <img src="assets/imgs/LAGFoerderung.jpg" alt="KlimaschutzabendeRohrbachEinladung" width="400"/>

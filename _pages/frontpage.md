@@ -7,4 +7,4 @@ list_title:
 
 ## Klimaschutzabende Rohrbach
 
-<img src="assets/imgs/KlimaschutzreiheRohrbachV3.jpg" alt="KlimaschutzabendeRohrbachEinladung" width="800"/>
+<img src="assets/imgs/KlimaschutzreiheRohrbachV4.jpg" alt="KlimaschutzabendeRohrbachEinladung" width="800"/>
