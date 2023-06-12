@@ -28,7 +28,7 @@ __Vortragende: Reparaturcafe Wolnzach, Regina Welnhofer__
 
 __Ort: Vereinsheim TSV Rohrbach - Zum Wirtshausfranz__
 
-## __Do, 15.06. 19:00__
+## __Do, 22.06. 19:00__
 __Thema: Klimafreundliche Mobilität__
 __Vortragende: tba__
 
