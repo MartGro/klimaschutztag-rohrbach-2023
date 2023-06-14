@@ -24,13 +24,13 @@ __Ort: Vereinsheim Schützen Gambach__
 
 ## __Do, 15.06. 19:00__
 __Thema: Nachhaltige Lebensweise__
-__Vortragende: Reparaturcafe Wolnzach, Regina Welnhofer__
+__Vortragende: Alfred Artner (Reparaturtreff Wolnzach), Regina Welnhofer (Plastikfrei Leben), Harald Ulmer (Bund Naturschutz - Klimabewusste Ernährung), Prof. Dr. Josef Pöppel (CO2 Fußabdruck)__
 
 __Ort: Vereinsheim TSV Rohrbach - Zum Wirtshausfranz__
 
 ## __Do, 22.06. 19:00__
 __Thema: Klimafreundliche Mobilität__
-__Vortragende: tba__
+__Vortragende: Simon Plaß (Stadtwerke Pfaffenhofen), Christoph von Gagern (VCD München)__
 
 __Ort: Vereinsheim SV Fahlenbach__
 
